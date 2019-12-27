@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/numinolabs893498/.dotnet/store/|arch|/|tfm|",
+      "/home/numinolabs893498/.nuget/packages"
+    ]
+  }
+}
